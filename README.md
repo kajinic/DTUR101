@@ -6,7 +6,7 @@ Course Introduction
 
 ### Aim
 
-The aim of 'Introduction to Applied Data Analysis with R' is to introduce the [The R Project for Statistical Computing](https://www.r-project.org/) and the [Tidyverse framework](https://www.tidyverse.org/) to tidy, transform, visualise, model and communicate our data in the context of wet-lab bio-engineering. The course will run as a PhD+ course and participants are eligeble to collect 2.5 ECTS points.
+The aim of 'Introduction to Applied Data Analysis with R' is to introduce the [The R Project for Statistical Computing](https://www.r-project.org/) and the [Tidyverse framework](https://www.tidyverse.org/) to tidy, transform, visualise, analyse, model and communicate our data in the context of wet-lab bio-engineering. The course will run as a PhD+ course and participants are eligeble to collect 2.5 ECTS points.
 
 ### Teacher
 
