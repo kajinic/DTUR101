@@ -50,6 +50,8 @@ Course Timetable
 
 ### Week 1 - Monday January 29th 2018 13-17
 
+Location: The library at DTU Bioinformatics (building 208, room 027) at 1pm.
+
 The first day we will focus on getting the software we need up and running. Then we will dive into programming in R. There will be a learning curve, I am fully aware of this, but I am confident that if you put the effort into climbing it, the reward will be well worth it. Programming is not only learning what to write when, but it is also learning a certain way of thinking - A new mindset if you will.
 
 Please try to install R and RStudio before the first class
