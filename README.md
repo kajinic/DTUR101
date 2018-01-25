@@ -34,7 +34,6 @@ Students are required to bring their own laptop and preferably install the follo
 
 -   [R](https://mirrors.dotsrc.org/cran/)
 -   [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
--   [TidyVerse](https://www.tidyverse.org/)
 
 ### Some Usefull Links
 
@@ -51,9 +50,18 @@ Course Timetable
 
 ### Week 1 - Monday January 29th 2018 13-17
 
+The first day we will focus on getting the software we need up and running. Then we will dive into programming in R. There will be a learning curve, I am fully aware of this, but I am confident that if you put the effort into climbing it, the reward will be well worth it. Programming is not only learning what to write when, but it is also learning a certain way of thinking - A new mindset if you will.
+
+Please try to install R and RStudio before the first class
+
+-   [R](https://mirrors.dotsrc.org/cran/)
+-   [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+
+Class curriculum
+
 -   Installing R, RStudio and TidyVerse
--   Crash course in programming in R
--   Video: [1 - Descriptive Statistics](https://www.youtube.com/watch?v=SOYt84ZPTx0)
+-   Gentle introduction to programming in general and in R
+-   If we have time, video: [1 - Descriptive Statistics](https://www.youtube.com/watch?v=SOYt84ZPTx0)
 
 ### Week 2 - Monday February 5th 2018 13-17
 
