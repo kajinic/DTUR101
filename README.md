@@ -68,11 +68,15 @@ Class curriculum
 
 ### Week 2 - Monday February 5th 2018 13-17
 
+Based on what we learned in week 1, we will move onto some data visualisation using the `ggplot` package, which is part of the [`tidyverse`](https://www.tidyverse.org/) framework. The `tidyverse` framework is a particular take on how to do data analysis. It implements a philosophy where the work goes into getting your data into a well-defined format and once this is obtained, the different `tidyverse` functions can be applied to import-tidy-transform-visualise-model-communicate your data as illustrated in this figure (taken from [R for Data Science](http://r4ds.had.co.nz/))
+
+![](figures/data_cycle.png)
+
 -   Video: [2 - Plotting with ggplot2](https://www.youtube.com/watch?v=oXlXVyiedBw)
--   Video: [3 - PCA concept](https://www.youtube.com/watch?v=NFIkD9-MuTY)
 
 ### Week 3 - Monday February 12th 2018 13-17
 
+-   Video: [3 - PCA concept](https://www.youtube.com/watch?v=NFIkD9-MuTY)
 -   Video: [4 - PCA estimation, centering/scaling, variance explained and biplot](https://www.youtube.com/watch?v=TraMXdEqeys)
 
 ### Week 4 - Monday February 19th 2018 13-17
