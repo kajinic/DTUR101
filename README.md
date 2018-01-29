@@ -74,6 +74,10 @@ Based on what we learned in week 1, we will move onto some data visualisation us
 
 This mean, that we will leave base R for now and henceforth we will continue our endevour using `Tidyverse`.
 
+Please try to install `Tidyverse` before the class
+
+-   In the console in RStudio, run this command: `install.packages('tidyverse')`
+
 Class curriculum
 
 -   Introduction to `Tidyverse`
