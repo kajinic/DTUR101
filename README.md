@@ -64,6 +64,7 @@ Class curriculum
 -   Installing R, RStudio and TidyVerse
 -   Gentle introduction to programming in general and in R
 -   If we have time, video: [1 - Descriptive Statistics](https://www.youtube.com/watch?v=SOYt84ZPTx0)
+-   [Here is the code we went through today](R/day_01.R)
 
 ### Week 2 - Monday February 5th 2018 13-17
 
