@@ -72,6 +72,11 @@ Based on what we learned in week 1, we will move onto some data visualisation us
 
 ![](figures/data_cycle.png)
 
+This mean, that we will leave base R for now and henceforth we will continue our endevour using `Tidyverse`.
+
+Class curriculum
+
+-   Introduction to `Tidyverse`
 -   Video: [2 - Plotting with ggplot2](https://www.youtube.com/watch?v=oXlXVyiedBw)
 
 ### Week 3 - Monday February 12th 2018 13-17
