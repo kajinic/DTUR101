@@ -27,6 +27,7 @@ DTUR101 - Introduction to Applied Data Analysis with R
     -   [Week 11 - Monday April 23rd 2018 13-17](#week-11---monday-april-23rd-2018-13-17)
     -   [Week 12 - Monday April 30th 2018 13-17](#week-12---monday-april-30th-2018-13-17)
     -   [Week 13 - Monday May 7th 2018 13-17](#week-13---monday-may-7th-2018-13-17)
+    -   [Videos](#videos)
 
 Course Introduction
 ===================
@@ -125,7 +126,7 @@ Please try to install `Tidyverse` before the class
 
 Class Curriculum
 
--   Recap of last session
+-   Recapitulation of previous class
 -   Introduction to `Tidyverse`
 -   Data visualisation using `ggplot`
 -   Video: [2 - Plotting with ggplot2](https://www.youtube.com/watch?v=oXlXVyiedBw)
@@ -138,37 +139,33 @@ Post Class
 Week 3 - Monday February 12th 2018 13-17
 ----------------------------------------
 
--   Video: [3 - PCA concept](https://www.youtube.com/watch?v=NFIkD9-MuTY)
--   Video: [4 - PCA estimation, centering/scaling, variance explained and biplot](https://www.youtube.com/watch?v=TraMXdEqeys)
+-   Location: Ly202-R8107-LIFE 1pm - 5pm
+
+Now we have learned the basics of `R`, touched upon descriptive statistics and been introduced to `tidyverse` and `ggplot`. We continue with data visualisation and then turn to data distributions.
+
+Class Curriculum
+
+-   Recapitulation of previous class
+-   Data visualisation using `ggplot` continued
+-   Introduction to data distributions
+-   The normal distribution
+-   Video: [7 - Normal distribution](https://www.youtube.com/watch?v=C_INrc633uk)
+-   Video: [8 - Normal distribution Confidence Interval](https://www.youtube.com/watch?v=02S8L5H6l0U)
 
 Week 4 - Monday February 19th 2018 13-17
 ----------------------------------------
 
--   Video: [5 - Correlation and Covariance - Nuts and bolt](https://www.youtube.com/watch?v=WcPGgtptxZ4)
--   Video: [6 - Correlation and PCA](https://www.youtube.com/watch?v=EHb_kuw1GNU)
-
 Week 5 - Monday February 26th 2018 13-17
 ----------------------------------------
-
--   Video: [7 - Normal distribution](https://www.youtube.com/watch?v=C_INrc633uk)
--   Video: [8 - Normal distribution Confidence Interval](https://www.youtube.com/watch?v=02S8L5H6l0U)
 
 Week 6 - Monday March 5th 2018 13-17
 ------------------------------------
 
--   Video: [9 - T-test](https://www.youtube.com/watch?v=D996ja8ZBN4)
--   Video: [10 - T-test inR](https://www.youtube.com/watch?v=KDpsF5dgIVI)
-
 Week 7 - Monday March 12th 2018 13-17
 -------------------------------------
 
--   Video: [12 - Categorical Data - Chisq test - how to](https://www.youtube.com/watch?v=fEXa8dQwlDw)
-
 Week 8 - Monday March 19th 2018 13-17
 -------------------------------------
-
--   Video: [13 - Binomial distribution](https://www.youtube.com/watch?v=F2NpmXEwFVE)
--   Video: [14 - Binomial Distribution Test](https://www.youtube.com/watch?v=L5jehIE_Sn0)
 
 Easter Vacation - Monday March 26th 2018 13-17
 ----------------------------------------------
@@ -179,25 +176,33 @@ Easter Vacation - Monday April 2nd 2018 13-17
 Week 9 - Monday April 9th 2018 13-17
 ------------------------------------
 
--   Video: [15 - Binomial distribution - estimation](https://www.youtube.com/watch?v=wZ9c7xG-et4)
-
 Week 10 - Monday April 16th 2018 13-17
 --------------------------------------
-
--   Video: [16 - Power calculation for the binomial distribution](https://www.youtube.com/watch?v=O_D8csjLr4s)
 
 Week 11 - Monday April 23rd 2018 13-17
 --------------------------------------
 
--   Video: [17 - Power calculation for Ttest-data](https://www.youtube.com/watch?v=uDvfgpvrhqM)
--   Video: [18 - Power calculation for Ttest type data inR](https://www.youtube.com/watch?v=FeQKkkpd-Ew)
-
 Week 12 - Monday April 30th 2018 13-17
 --------------------------------------
-
--   Video: [19 - Oneway ANOVA](https://www.youtube.com/watch?v=1n74nlIqBTE)
 
 Week 13 - Monday May 7th 2018 13-17
 -----------------------------------
 
+Videos
+------
+
+-   Video: [3 - PCA concept](https://www.youtube.com/watch?v=NFIkD9-MuTY)
+-   Video: [4 - PCA estimation, centering/scaling, variance explained and biplot](https://www.youtube.com/watch?v=TraMXdEqeys)
+-   Video: [5 - Correlation and Covariance - Nuts and bolt](https://www.youtube.com/watch?v=WcPGgtptxZ4)
+-   Video: [6 - Correlation and PCA](https://www.youtube.com/watch?v=EHb_kuw1GNU)
+-   Video: [9 - T-test](https://www.youtube.com/watch?v=D996ja8ZBN4)
+-   Video: [10 - T-test inR](https://www.youtube.com/watch?v=KDpsF5dgIVI)
+-   Video: [12 - Categorical Data - Chisq test - how to](https://www.youtube.com/watch?v=fEXa8dQwlDw)
+-   Video: [13 - Binomial distribution](https://www.youtube.com/watch?v=F2NpmXEwFVE)
+-   Video: [14 - Binomial Distribution Test](https://www.youtube.com/watch?v=L5jehIE_Sn0)
+-   Video: [15 - Binomial distribution - estimation](https://www.youtube.com/watch?v=wZ9c7xG-et4)
+-   Video: [16 - Power calculation for the binomial distribution](https://www.youtube.com/watch?v=O_D8csjLr4s)
+-   Video: [17 - Power calculation for Ttest-data](https://www.youtube.com/watch?v=uDvfgpvrhqM)
+-   Video: [18 - Power calculation for Ttest type data inR](https://www.youtube.com/watch?v=FeQKkkpd-Ew)
+-   Video: [19 - Oneway ANOVA](https://www.youtube.com/watch?v=1n74nlIqBTE)
 -   Video: [20 - Contrasts in ANOVA models](https://www.youtube.com/watch?v=JpUSVNTNTQk)
