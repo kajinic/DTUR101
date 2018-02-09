@@ -133,6 +133,7 @@ Class Curriculum
 Post Class
 
 -   [Here is the code we went through today](R/day_02.R)
+-   [And a presentation on tidyverse](http://htmlpreview.github.io/?https://github.com/leonjessen/DTUR101/blob/master/doc/tidy_talk.html)
 
 Week 3 - Monday February 12th 2018 13-17
 ----------------------------------------
