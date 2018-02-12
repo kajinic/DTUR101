@@ -99,13 +99,13 @@ Please try to install R and RStudio before the first class
 -   [R](https://mirrors.dotsrc.org/cran/)
 -   [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
-Class Curriculum
+**Class Curriculum**
 
 -   Installing R, RStudio and TidyVerse
 -   Gentle introduction to programming in general and in R
 -   If we have time, video: [1 - Descriptive Statistics](https://www.youtube.com/watch?v=SOYt84ZPTx0)
 
-Post Class
+**Post Class**
 
 -   [Here is the code we went through today](R/day_01.R)
 
@@ -118,20 +118,20 @@ Based on what we learned in week 1, we will move onto some data visualisation us
 
 ![](figures/data_cycle.png)
 
-This mean, that we will leave base R for now and henceforth we will continue our endevour using `Tidyverse`.
+This means, that we will leave base R for now and henceforth we will continue our endevour using `Tidyverse`.
 
 Please try to install `Tidyverse` before the class
 
 -   In the console in RStudio, run this command: `install.packages('tidyverse')`
 
-Class Curriculum
+**Class Curriculum**
 
 -   Recapitulation of previous class
 -   Introduction to `Tidyverse`
 -   Data visualisation using `ggplot`
 -   Video: [2 - Plotting with ggplot2](https://www.youtube.com/watch?v=oXlXVyiedBw)
 
-Post Class
+**Post Class**
 
 -   [Here is the code we went through today](R/day_02.R)
 -   [And a presentation on tidyverse](http://htmlpreview.github.io/?https://github.com/leonjessen/DTUR101/blob/master/doc/tidy_talk.html)
@@ -141,16 +141,22 @@ Week 3 - Monday February 12th 2018 13-17
 
 -   Location: Ly202-R8107-LIFE 1pm - 5pm
 
-Now we have learned the basics of `R`, touched upon descriptive statistics and been introduced to `tidyverse` and `ggplot`. We continue with data visualisation and then turn to data distributions.
+Now we have learned the basics of `R`, touched upon descriptive statistics and been introduced to `tidyverse` and `ggplot`. We continue with data visualisation and then turn to data distributions. We will take a closer at the normal distribution and also look at confidence intervals, when estimating population mean based on a sample.
 
-Class Curriculum
+**Class Curriculum**
 
 -   Recapitulation of previous class
 -   Data visualisation using `ggplot` continued
 -   Introduction to data distributions
 -   The normal distribution
+-   Confidence intervals
 -   Video: [7 - Normal distribution](https://www.youtube.com/watch?v=C_INrc633uk)
 -   Video: [8 - Normal distribution Confidence Interval](https://www.youtube.com/watch?v=02S8L5H6l0U)
+
+**Post Class**
+
+-   [Here is the code we went through today](R/day_03.R)
+-   [Confidence Intervals Visualised](https://github.com/leonjessen/confidence_intervals_visualised)
 
 Week 4 - Monday February 19th 2018 13-17
 ----------------------------------------
