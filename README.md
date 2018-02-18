@@ -90,7 +90,9 @@ Course Timetable
 Week 1 - Monday January 29th 2018 13-17
 ---------------------------------------
 
--   Location: The library at DTU Bioinformatics (building 208, room 027) at 1pm.
+**Location**
+
+-   The library at DTU Bioinformatics (building 208, room 027) at 1pm.
 
 The first day we will focus on getting the software we need up and running. Then we will dive into programming in R. There will be a learning curve, I am fully aware of this, but I am confident that if you put the effort into climbing it, the reward will be well worth it. Programming is not only learning what to write when, but it is also learning a certain way of thinking - A new mindset if you will.
 
@@ -112,7 +114,9 @@ Please try to install R and RStudio before the first class
 Week 2 - Monday February 5th 2018 13-17
 ---------------------------------------
 
--   Location: Ly202-R8107-LIFE 1pm - 5pm
+**Location**
+
+-   Ly202-R8107-LIFE 1pm - 5pm
 
 Based on what we learned in week 1, we will move onto some data visualisation using the `ggplot` package, which is part of the [`tidyverse`](https://www.tidyverse.org/) framework. The `tidyverse` framework is a particular take on how to do data analysis. It implements a philosophy where the work goes into getting your data into a well-defined format and once this is obtained, the different `tidyverse` functions can be applied to import-tidy-transform-visualise-model-communicate your data as illustrated in this figure (taken from [R for Data Science](http://r4ds.had.co.nz/))
 
@@ -139,7 +143,9 @@ Please try to install `Tidyverse` before the class
 Week 3 - Monday February 12th 2018 13-17
 ----------------------------------------
 
--   Location: Ly202-R8107-LIFE 1pm - 5pm
+**Location**
+
+-   Ly202-R8107-LIFE 1pm - 5pm
 
 Now we have learned the basics of `R`, touched upon descriptive statistics and been introduced to `tidyverse` and `ggplot`. We continue with data visualisation and then turn to data distributions. We will take a closer at the normal distribution and also look at confidence intervals, when estimating population mean based on a sample.
 
@@ -161,17 +167,43 @@ Now we have learned the basics of `R`, touched upon descriptive statistics and b
 Week 4 - Monday February 19th 2018 13-17
 ----------------------------------------
 
+**Location**
+
+-   Ly202-R8107-LIFE 1pm - 5pm
+
+We have now become more familiar with `R` and we have tried to solve some simple tasks on our own. We have touched upon the normal distribution and used it to calculate some probabilities. We also discussed some properties of probability density functions. Now it is time to address how we state and test a hypothesis. Furthermore we will discuss how we interpret the result of a test and also possible errors. We will use the `t-test` as a point of reference for this.
+
+**Class Curriculum**
+
+-   Recapitulation of previous class
+-   The standard normal distribution
+-   Statistical hypothesis
+-   The `t-test`
+-   Test statistics, p-values, level of significance, type I and II errors
+-   Video: [9 - T-test](https://www.youtube.com/watch?v=D996ja8ZBN4)
+-   Video: [10 - T-test inR](https://www.youtube.com/watch?v=KDpsF5dgIVI)
+
+**Post Class**
+
 Week 5 - Monday February 26th 2018 13-17
 ----------------------------------------
+
+**Location** **Class Curriculum** **Post Class**
 
 Week 6 - Monday March 5th 2018 13-17
 ------------------------------------
 
+**Location** **Class Curriculum** **Post Class**
+
 Week 7 - Monday March 12th 2018 13-17
 -------------------------------------
 
+**Location** **Class Curriculum** **Post Class**
+
 Week 8 - Monday March 19th 2018 13-17
 -------------------------------------
+
+**Location** **Class Curriculum** **Post Class**
 
 Easter Vacation - Monday March 26th 2018 13-17
 ----------------------------------------------
@@ -179,20 +211,32 @@ Easter Vacation - Monday March 26th 2018 13-17
 Easter Vacation - Monday April 2nd 2018 13-17
 ---------------------------------------------
 
+**Location** **Class Curriculum** **Post Class**
+
 Week 9 - Monday April 9th 2018 13-17
 ------------------------------------
+
+**Location** **Class Curriculum** **Post Class**
 
 Week 10 - Monday April 16th 2018 13-17
 --------------------------------------
 
+**Location** **Class Curriculum** **Post Class**
+
 Week 11 - Monday April 23rd 2018 13-17
 --------------------------------------
+
+**Location** **Class Curriculum** **Post Class**
 
 Week 12 - Monday April 30th 2018 13-17
 --------------------------------------
 
+**Location** **Class Curriculum** **Post Class**
+
 Week 13 - Monday May 7th 2018 13-17
 -----------------------------------
+
+**Location** **Class Curriculum** **Post Class**
 
 Videos
 ------
@@ -201,8 +245,6 @@ Videos
 -   Video: [4 - PCA estimation, centering/scaling, variance explained and biplot](https://www.youtube.com/watch?v=TraMXdEqeys)
 -   Video: [5 - Correlation and Covariance - Nuts and bolt](https://www.youtube.com/watch?v=WcPGgtptxZ4)
 -   Video: [6 - Correlation and PCA](https://www.youtube.com/watch?v=EHb_kuw1GNU)
--   Video: [9 - T-test](https://www.youtube.com/watch?v=D996ja8ZBN4)
--   Video: [10 - T-test inR](https://www.youtube.com/watch?v=KDpsF5dgIVI)
 -   Video: [12 - Categorical Data - Chisq test - how to](https://www.youtube.com/watch?v=fEXa8dQwlDw)
 -   Video: [13 - Binomial distribution](https://www.youtube.com/watch?v=F2NpmXEwFVE)
 -   Video: [14 - Binomial Distribution Test](https://www.youtube.com/watch?v=L5jehIE_Sn0)
