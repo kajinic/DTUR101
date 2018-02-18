@@ -176,6 +176,7 @@ We have now become more familiar with `R` and we have tried to solve some simple
 **Class Curriculum**
 
 -   Recapitulation of previous class
+-   Briefly on cleaning data
 -   The standard normal distribution
 -   Statistical hypothesis
 -   The `t-test`
