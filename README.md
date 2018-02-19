@@ -184,7 +184,7 @@ We have now become more familiar with `R` and we have tried to solve some simple
 -   Video: [9 - T-test](https://www.youtube.com/watch?v=D996ja8ZBN4)
 -   Video: [10 - T-test inR](https://www.youtube.com/watch?v=KDpsF5dgIVI)
 
-**Post Class**
+**Post Class** \* [Here is the code we went through today](R/day_04.R)
 
 Week 5 - Monday February 26th 2018 13-17
 ----------------------------------------
