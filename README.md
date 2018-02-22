@@ -191,7 +191,23 @@ We have now become more familiar with `R` and we have tried to solve some simple
 Week 5 - Monday February 26th 2018 13-17
 ----------------------------------------
 
-**Location** **Class Curriculum** **Post Class**
+**Location**
+
+-   NB! Class rescheduled to Friday March 2nd
+-   Ly202-R8107-LIFE 1pm - 5pm
+
+Last class we went over cleaning of data, the standard normal distribution, what constitutes a hypothesis in statistical terminology. Lastly we turned to manual implementation of a t-test and in that context discussed the connection between the test statistics and the p-value. I realise that it a bit more challenging, but please try to remember that it is natural to feel frustration when absorbing new knowledge. Especially in this case, where you have to absorb not only how-to-code-in-R, but also statistics and math, which does require a level of abstraction, which is challenging. See it as if you are trying to learn a new language, which in essense is quite comparable to what we are doing. We will go over the manual t-test for the `shoe_size` variable to ensure that we are all on the same page. Then I will introduce and discuss some more statistical terminology: Level of significance, Type I error, Type II error and power.
+
+**Class Curriculum**
+
+-   Recapitulation of previous class
+-   Manual t-test for `shoe_size` variable in our data
+-   Level of significance, type I and II errors
+-   Statistical power
+-   Video: [17 - Power calculation for Ttest-data](https://www.youtube.com/watch?v=uDvfgpvrhqM)
+-   Video: [18 - Power calculation for Ttest type data inR](https://www.youtube.com/watch?v=FeQKkkpd-Ew)
+
+**Post Class**
 
 Week 6 - Monday March 5th 2018 13-17
 ------------------------------------
@@ -253,7 +269,5 @@ Videos
 -   Video: [14 - Binomial Distribution Test](https://www.youtube.com/watch?v=L5jehIE_Sn0)
 -   Video: [15 - Binomial distribution - estimation](https://www.youtube.com/watch?v=wZ9c7xG-et4)
 -   Video: [16 - Power calculation for the binomial distribution](https://www.youtube.com/watch?v=O_D8csjLr4s)
--   Video: [17 - Power calculation for Ttest-data](https://www.youtube.com/watch?v=uDvfgpvrhqM)
--   Video: [18 - Power calculation for Ttest type data inR](https://www.youtube.com/watch?v=FeQKkkpd-Ew)
 -   Video: [19 - Oneway ANOVA](https://www.youtube.com/watch?v=1n74nlIqBTE)
 -   Video: [20 - Contrasts in ANOVA models](https://www.youtube.com/watch?v=JpUSVNTNTQk)
