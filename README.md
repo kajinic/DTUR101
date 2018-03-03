@@ -210,6 +210,8 @@ Last class we went over cleaning of data, the standard normal distribution, what
 
 **Post Class**
 
+-   [Here is the code we went through today](R/day_05.R)
+
 Week 6 - Monday March 5th 2018 13-17
 ------------------------------------
 
