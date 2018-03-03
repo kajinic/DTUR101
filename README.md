@@ -215,7 +215,20 @@ Last class we went over cleaning of data, the standard normal distribution, what
 Week 6 - Monday March 5th 2018 13-17
 ------------------------------------
 
-**Location** **Class Curriculum** **Post Class**
+**Location**
+
+-   Ly202-R8107-LIFE 1pm - 5pm
+
+We have now worked with basic statistical concepts. We will spent some time going over them again, so we all agree on statistical hypothesis: null versus alternative, level of significance (alpha), statistical power (beta), type I (FP) / II (FN) errors. After this we will talk about correlation and covariance.
+
+**Class Curriculum**
+
+-   Recapitulation of previous class
+-   Summary of statistical concepts
+-   Correlation and covariance
+-   Video: [5 - Correlation and Covariance - Nuts and bolt](https://www.youtube.com/watch?v=WcPGgtptxZ4)
+
+**Post Class**
 
 Week 7 - Monday March 12th 2018 13-17
 -------------------------------------
@@ -265,7 +278,6 @@ Videos
 
 -   Video: [3 - PCA concept](https://www.youtube.com/watch?v=NFIkD9-MuTY)
 -   Video: [4 - PCA estimation, centering/scaling, variance explained and biplot](https://www.youtube.com/watch?v=TraMXdEqeys)
--   Video: [5 - Correlation and Covariance - Nuts and bolt](https://www.youtube.com/watch?v=WcPGgtptxZ4)
 -   Video: [6 - Correlation and PCA](https://www.youtube.com/watch?v=EHb_kuw1GNU)
 -   Video: [12 - Categorical Data - Chisq test - how to](https://www.youtube.com/watch?v=fEXa8dQwlDw)
 -   Video: [13 - Binomial distribution](https://www.youtube.com/watch?v=F2NpmXEwFVE)
