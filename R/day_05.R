@@ -22,7 +22,6 @@ dat_srh = dat_srh %>% mutate(sex = sex %>% factor)
 #   3. Level of significance, type I and II errors
 #   4. Statistical power
 
-
 # ------------------------------------------------------------------------------
 #   1. Recapitulation of previous class
 # ------------------------------------------------------------------------------
