@@ -17,7 +17,7 @@ library('broom')   # Note, new lib!
 dat_srh = read_excel(path = "data/srh_group_data.xlsx")
 
 # Look at the first 10 rows
-dat_srh %>% head(10)
+dat_srh %>% head(20)
 
 # Look at the last 10 rows
 dat_srh %>% tail(10)
@@ -25,6 +25,8 @@ dat_srh %>% tail(10)
 # Clean data
 # Note, you cannot run this pipeline two times. It is aimed at cleaning the data
 # and you cannot clean already cleaned data
+# What you should do, is to call your cleaned data by a new name, e.g.
+# dat_srh_cleaned and not:
 dat_srh = dat_srh %>%
   rename(shoe_size = `shoe size`) %>%
   filter(shoe_size %>% is.na %>% `!`) %>%
@@ -102,8 +104,8 @@ dat_srh %>%
   theme_bw() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-# It seems that for the mean, Nikolaj is very close to the average and likewise
-# is Trine for the women, let's see the numbers
+# It seems that for the mean, Nikolaj is very close to the average for the men
+# and likewise is Trine for the women, let's see the numbers
 dat_srh %>% filter(name == 'Nikolaj' | name == 'Trine')
 
 # and compare with the means
