@@ -237,7 +237,7 @@ We will spent some time on the exercises from last week and then go over the goi
 -   Type II error (False negatives)
 -   Confusion matrices
 
-If you are still uncertain on these concepts, please take a look again at the code from the last classes, rewatch some of the videos and use google. After this we will do the exercises on correlation and covariance.
+If you are still uncertain on these concepts, please take a look again at the code from the last classes, rewatch some of the videos and try yo use google. Please feel free to mail me, if you have reached the level of destructive frustration. After this we will do the exercises on correlation and covariance.
 
 **Class Curriculum**
 
@@ -247,6 +247,9 @@ If you are still uncertain on these concepts, please take a look again at the co
 -   Video: [5 - Correlation and Covariance - Nuts and bolt](https://www.youtube.com/watch?v=WcPGgtptxZ4)
 
 **Post Class**
+
+-   [Here is the code we went through today](R/day_06.R)
+-   [Answer to exercises](R/day_06_exercise.R)
 
 Week 7 - Monday March 12th 2018 13-17
 -------------------------------------
