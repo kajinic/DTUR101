@@ -187,7 +187,7 @@ We have now become more familiar with `R` and we have tried to solve some simple
 **Post Class**
 
 -   [Here is the code we went through today](R/day_04.R)
--   [Here is how to construct a manual t-test](R/day_04_exercise.R)
+-   [Answer to exercises](R/day_04_exercise.R)
 
 Week 5 - Monday February 26th 2018 13-17
 ----------------------------------------
@@ -211,6 +211,7 @@ Last class we went over cleaning of data, the standard normal distribution, what
 **Post Class**
 
 -   [Here is the code we went through today](R/day_05.R)
+-   [Answer to exercises](R/day_05_exercise.R)
 
 Week 6 - Monday March 5th 2018 13-17
 ------------------------------------
@@ -219,12 +220,29 @@ Week 6 - Monday March 5th 2018 13-17
 
 -   Ly202-R8107-LIFE 1pm - 5pm
 
-We have now worked with basic statistical concepts. We will spent some time going over them again, so we all agree on statistical hypothesis: null versus alternative, level of significance (alpha), statistical power (beta), type I (FP) / II (FN) errors. After this we will talk about correlation and covariance.
+We will spent some time on the exercises from last week and then go over the going over basic statistical concepts again, so we all agree on:
+
+-   Descriptive statistics
+-   Statistical inference (sample versus population)
+-   The normal distibution (aka Gaussian)
+-   Confidence intervals
+-   The standard normal distribution (standard-/z-score normalisation)
+-   Hypothesis testing (null versus alternative)
+-   p-values
+-   Level of significance
+-   Power
+-   Alpha values
+-   Beta values
+-   Type I error (False positives)
+-   Type II error (False negatives)
+-   Confusion matrices
+
+If you are still uncertain on these concepts, please take a look again at the code from the last classes, rewatch some of the videos and use google. After this we will do the exercises on correlation and covariance.
 
 **Class Curriculum**
 
 -   Recapitulation of previous class
--   Summary of statistical concepts
+-   Summary of basic statistical concepts
 -   Correlation and covariance
 -   Video: [5 - Correlation and Covariance - Nuts and bolt](https://www.youtube.com/watch?v=WcPGgtptxZ4)
 
