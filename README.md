@@ -241,6 +241,7 @@ If you are still uncertain on these concepts, please take a look again at the co
 
 **Class Curriculum**
 
+-   Midway evaluation
 -   Recapitulation of previous class
 -   Summary of basic statistical concepts
 -   Correlation and covariance
@@ -254,7 +255,21 @@ If you are still uncertain on these concepts, please take a look again at the co
 Week 7 - Monday March 12th 2018 13-17
 -------------------------------------
 
-**Location** **Class Curriculum** **Post Class**
+**Location**
+
+-   Ly202-R8107-LIFE 1pm - 5pm
+
+We will start with going over the results of the midway evaluation. Then we will expand on the topics of correlation and covariance. <!-- We have now demonstrated that there is a correlation between the `height` and `shoe_size` variables in out test data set. Based on this, we will create a model for how `height` and `shoe_size` are connected.-->
+
+**Class Curriculum**
+
+-   TBA
+
+<!-- * Video: [Statistics 101: Simple Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4) -->
+<!-- * Video: [Statistics 101: Linear Regression, Algebra, Equations, and Patterns](https://www.youtube.com/watch?v=iAgYLRy7e20) -->
+<!-- * Video: [Statistics 101: Simple Linear Regression, The Least Squares Method](https://www.youtube.com/watch?v=Qa2APhWjQPc) -->
+<!-- * Video: [Statistics 101: Linear Regression, Fit and Coefficient of Determination](https://www.youtube.com/watch?v=kHZBy1uVNnM) -->
+**Post Class**
 
 Week 8 - Monday March 19th 2018 13-17
 -------------------------------------
