@@ -263,7 +263,7 @@ We will start with going over the results of the midway evaluation. Then we will
 
 **Class Curriculum**
 
--   TBA
+-   [Results of midway evaluation and today's task](https://htmlpreview.github.io/?https://github.com/leonjessen/DTUR101/blob/master/doc/midway_eval_and_OLS.html)
 
 <!-- * Video: [Statistics 101: Simple Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4) -->
 <!-- * Video: [Statistics 101: Linear Regression, Algebra, Equations, and Patterns](https://www.youtube.com/watch?v=iAgYLRy7e20) -->
