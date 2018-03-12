@@ -263,12 +263,13 @@ We will start with going over the results of the midway evaluation. Then we will
 
 **Class Curriculum**
 
--   [Results of midway evaluation and today's task](https://htmlpreview.github.io/?https://github.com/leonjessen/DTUR101/blob/master/doc/midway_eval_and_OLS.html)
+-   [Results of midway evaluation](https://htmlpreview.github.io/?https://github.com/leonjessen/DTUR101/blob/master/doc/midway_eval.html)
+-   [Answer to exercises](R/day_07_exercise.R)
+-   Video: [Statistics 101: Simple Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4)
+-   Video: [Statistics 101: Linear Regression, Algebra, Equations, and Patterns](https://www.youtube.com/watch?v=iAgYLRy7e20)
+-   Video: [Statistics 101: Simple Linear Regression, The Least Squares Method](https://www.youtube.com/watch?v=Qa2APhWjQPc)
+-   Video: [Statistics 101: Linear Regression, Fit and Coefficient of Determination](https://www.youtube.com/watch?v=kHZBy1uVNnM)
 
-<!-- * Video: [Statistics 101: Simple Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4) -->
-<!-- * Video: [Statistics 101: Linear Regression, Algebra, Equations, and Patterns](https://www.youtube.com/watch?v=iAgYLRy7e20) -->
-<!-- * Video: [Statistics 101: Simple Linear Regression, The Least Squares Method](https://www.youtube.com/watch?v=Qa2APhWjQPc) -->
-<!-- * Video: [Statistics 101: Linear Regression, Fit and Coefficient of Determination](https://www.youtube.com/watch?v=kHZBy1uVNnM) -->
 **Post Class**
 
 Week 8 - Monday March 19th 2018 13-17
