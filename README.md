@@ -20,7 +20,7 @@ DTUR101 - Introduction to Applied Data Analysis with R
     -   [Week 6 - Monday March 5th 2018 13-17](#week-6---monday-march-5th-2018-13-17)
     -   [Week 7 - Monday March 12th 2018 13-17](#week-7---monday-march-12th-2018-13-17)
     -   [Week 8 - Monday March 19th 2018 13-17](#week-8---monday-march-19th-2018-13-17)
-    -   [Easter Vacation - Monday March 26th 2018 13-17](#easter-vacation---monday-march-26th-2018-13-17)
+    -   [Week 8 - Monday March 26th 2018 13-17](#week-8---monday-march-26th-2018-13-17)
     -   [Easter Vacation - Monday April 2nd 2018 13-17](#easter-vacation---monday-april-2nd-2018-13-17)
     -   [Week 9 - Monday April 9th 2018 13-17](#week-9---monday-april-9th-2018-13-17)
     -   [Week 10 - Monday April 16th 2018 13-17](#week-10---monday-april-16th-2018-13-17)
@@ -259,7 +259,7 @@ Week 7 - Monday March 12th 2018 13-17
 
 -   Ly202-R8107-LIFE 1pm - 5pm
 
-We will start with going over the results of the midway evaluation. Then we will expand on the topics of correlation and covariance. <!-- We have now demonstrated that there is a correlation between the `height` and `shoe_size` variables in out test data set. Based on this, we will create a model for how `height` and `shoe_size` are connected.-->
+We will start with going over the results of the midway evaluation. Then we will expand on the topics of correlation and covariance.
 
 **Class Curriculum**
 
@@ -275,15 +275,30 @@ We will start with going over the results of the midway evaluation. Then we will
 Week 8 - Monday March 19th 2018 13-17
 -------------------------------------
 
-**Location** **Class Curriculum** **Post Class**
+Class cancelled
 
-Easter Vacation - Monday March 26th 2018 13-17
-----------------------------------------------
+Week 8 - Monday March 26th 2018 13-17
+-------------------------------------
+
+**Location**
+
+-   Ly202-R8107-LIFE 1pm - 5pm
+
+We will start with briefly going over what we learned in the last class and then we will to reduction of data dimensionality. I assume most of you have encountered PCA and I would like for you to understand what it is, what it does and how we can use it. Please watch the videos ahead of class.
+
+**Class Curriculum**
+
+-   Recapitulation of previous class
+-   Video: [3 - PCA concept](https://www.youtube.com/watch?v=NFIkD9-MuTY)
+-   Video: [4 - PCA estimation, centering/scaling, variance explained and biplot](https://www.youtube.com/watch?v=TraMXdEqeys)
+-   Video: [6 - Correlation and PCA](https://www.youtube.com/watch?v=EHb_kuw1GNU)
+
+**Post Class**
 
 Easter Vacation - Monday April 2nd 2018 13-17
 ---------------------------------------------
 
-**Location** **Class Curriculum** **Post Class**
+No class - Easter Monday
 
 Week 9 - Monday April 9th 2018 13-17
 ------------------------------------
@@ -313,9 +328,6 @@ Week 13 - Monday May 7th 2018 13-17
 Videos
 ------
 
--   Video: [3 - PCA concept](https://www.youtube.com/watch?v=NFIkD9-MuTY)
--   Video: [4 - PCA estimation, centering/scaling, variance explained and biplot](https://www.youtube.com/watch?v=TraMXdEqeys)
--   Video: [6 - Correlation and PCA](https://www.youtube.com/watch?v=EHb_kuw1GNU)
 -   Video: [12 - Categorical Data - Chisq test - how to](https://www.youtube.com/watch?v=fEXa8dQwlDw)
 -   Video: [13 - Binomial distribution](https://www.youtube.com/watch?v=F2NpmXEwFVE)
 -   Video: [14 - Binomial Distribution Test](https://www.youtube.com/watch?v=L5jehIE_Sn0)
