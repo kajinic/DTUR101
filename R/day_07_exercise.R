@@ -55,10 +55,15 @@ b = sum((y - y_bar) * (x - x_bar)) / sum((x - x_bar)^2)
 a = y_bar - b * x_bar
 
 # Note that this is equivalent to
-b = cor(x, y) / (sd(x) / sd(y))
+b = cor(x,y) / (sd(x) / sd(y))
 
 # Create linear model using built in function
 my_lm = srh_dat %>% lm(shoe_size ~ height, data = .)
+
+# Equivalent to:
+# my_lm = lm(shoe_size ~ height, data = srh_dat)
+# my_lm = lm(srh_dat$shoe_size ~ srh_dat$height)
+
 my_lm %>% summary %>% tidy %>% print
 
 
@@ -68,13 +73,13 @@ my_lm %>% summary %>% tidy %>% print
 # ------------------------------------------------------------------------------
 
 # Set baby height
-baby_height = 50
+baby_height = c(50,55,60)
 
 # Calculate shoe size method 1
 baby_shoe_size_1 = my_lm$coefficients["(Intercept)"] + my_lm$coefficients["height"] * baby_height
 print(baby_shoe_size_1)
 
-# Calculate shoe size method 2
+# Equivalent to: Calculate shoe size method 2
 baby_shoe_size_2 = my_lm %>% predict(newdata = tibble(height = baby_height))
 print(baby_shoe_size_2)
 
