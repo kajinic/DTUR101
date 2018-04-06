@@ -284,16 +284,22 @@ Week 8 - Monday March 26th 2018 13-17
 
 -   Ly202-R8107-LIFE 1pm - 5pm
 
-We will start with briefly going over what we learned in the last class and then we will to reduction of data dimensionality. I assume most of you have encountered PCA and I would like for you to understand what it is, what it does and how we can use it. Please watch the videos ahead of class.
+We will start with briefly going over what we learned in the last class. Then we will briefly discuss correlation and causation and correction for multiple testing. Then we will turn to reduction of data dimensionality using PCA. I assume most of you have encountered PCA and I would like for you to understand what it is, what it does and how we can use it. Please watch the videos ahead of class.
 
 **Class Curriculum**
 
 -   Recapitulation of previous class
+-   Correlation and causation
+-   Correction for multiple testing
 -   Video: [3 - PCA concept](https://www.youtube.com/watch?v=NFIkD9-MuTY)
 -   Video: [4 - PCA estimation, centering/scaling, variance explained and biplot](https://www.youtube.com/watch?v=TraMXdEqeys)
 -   Video: [6 - Correlation and PCA](https://www.youtube.com/watch?v=EHb_kuw1GNU)
 
 **Post Class**
+
+-   [Here is the code we went through today](R/day_08.R)
+-   [Answer to exercises](R/day_08_exercise.R)
+-   [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
 
 Easter Vacation - Monday April 2nd 2018 13-17
 ---------------------------------------------
