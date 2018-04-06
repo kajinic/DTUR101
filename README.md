@@ -309,7 +309,20 @@ No class - Easter Monday
 Week 9 - Monday April 9th 2018 13-17
 ------------------------------------
 
-**Location** **Class Curriculum** **Post Class**
+**Location**
+
+-   Ly202-R8107-LIFE 1pm - 5pm
+
+We will start with briefly going over what we learned in the last class. Then we will introduce functions and string detection `stringr` and revisit data manipulation and visualisation, aiming at practising our R syntax skills.
+
+**Class Curriculum**
+
+-   Recapitulation of previous class
+-   Working with strings
+-   Writing functions in R
+-   Data manipulation and visualisation
+
+**Post Class**
 
 Week 10 - Monday April 16th 2018 13-17
 --------------------------------------
