@@ -324,6 +324,8 @@ We will start with briefly going over what we learned in the last class. Then we
 
 **Post Class**
 
+-   [Here is the code we went through today](R/day_09.R)
+
 Week 10 - Monday April 16th 2018 13-17
 --------------------------------------
 
