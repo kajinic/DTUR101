@@ -329,7 +329,19 @@ We will start with briefly going over what we learned in the last class. Then we
 Week 10 - Monday April 16th 2018 13-17
 --------------------------------------
 
-**Location** **Class Curriculum** **Post Class**
+**Location**
+
+-   Ly202-R8107-LIFE 1pm - 5pm
+
+As usual, we will recap last session and then we will briefly go over how you can make your own functions in `R`. This is a very powerful way of formalising your analysis and allows you to make workflows easily repeatable. Then we will continue practising our data manipulation skills using some Barracoda output as point of reference.
+
+**Class Curriculum**
+
+-   Recapitulation of previous class
+-   Writing functions in R
+-   Data manipulation and visualisation
+
+**Post Class**
 
 Week 11 - Monday April 23rd 2018 13-17
 --------------------------------------
