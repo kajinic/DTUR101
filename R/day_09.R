@@ -86,15 +86,15 @@ my_string %>% str_detect("this")
 #
 #     9. Which HLA-allele was used for this binding analysis?
 #
-#    10. Which fractions of binders has a leucine at p2 and a valine at p9?
+#    10. Which fraction of binders has a leucine at p2 and a valine at p9?
 #
-#    11. Which fractions of non-binders has a leucine at p2 and a valine at p9?
+#    11. Which fraction of non-binders has a leucine at p2 and a valine at p9?
 #
 #    12. What is the sequence of the best binder?
 #
 #    13. What is the sequence of the 2nd best binder?
 #
-#    14. Compare the sequences from q11 and q12, do you see what you expect?
+#    14. Compare the sequences from q12 and q13, do you see what you expect?
 #
 #    15. Compare positions 2 and 9 from the sequence logo from q7 with the PCA
 #        plot from last session. Discuss if the logo matches the PCA plot
