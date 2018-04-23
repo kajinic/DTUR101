@@ -24,9 +24,10 @@ DTUR101 - Introduction to Applied Data Analysis with R
     -   [Easter Vacation - Monday April 2nd 2018 13-17](#easter-vacation---monday-april-2nd-2018-13-17)
     -   [Week 9 - Monday April 9th 2018 13-17](#week-9---monday-april-9th-2018-13-17)
     -   [Week 10 - Monday April 16th 2018 13-17](#week-10---monday-april-16th-2018-13-17)
-    -   [Week 11 - Monday April 23rd 2018 13-17](#week-11---monday-april-23rd-2018-13-17)
-    -   [Week 12 - Monday April 30th 2018 13-17](#week-12---monday-april-30th-2018-13-17)
-    -   [Week 13 - Monday May 7th 2018 13-17](#week-13---monday-may-7th-2018-13-17)
+    -   [Week 10 - Monday April 23rd 2018 13-17](#week-10---monday-april-23rd-2018-13-17)
+    -   [Week 11 - Monday April 30th 2018 13-17](#week-11---monday-april-30th-2018-13-17)
+    -   [Week 12 - Monday May 7th 2018 13-17](#week-12---monday-may-7th-2018-13-17)
+    -   [Week 13 - Monday May 14th 2018 13-17](#week-13---monday-may-14th-2018-13-17)
     -   [Videos](#videos)
 
 Course Introduction
@@ -329,11 +330,16 @@ We will start with briefly going over what we learned in the last class. Then we
 Week 10 - Monday April 16th 2018 13-17
 --------------------------------------
 
+Class cancelled
+
+Week 10 - Monday April 23rd 2018 13-17
+--------------------------------------
+
 **Location**
 
 -   Ly202-R8107-LIFE 1pm - 5pm
 
-As usual, we will recap last session and then we will briefly go over how you can make your own functions in `R`. This is a very powerful way of formalising your analysis and allows you to make workflows easily repeatable. Then we will continue practising our data manipulation skills using some Barracoda output as point of reference.
+As usual, we will recap last session and then we will briefly go over how you can make your own functions in `R`. This is a very powerful way of formalising your analysis and allows you to make workflows easily repeatable. Then we will continue practising our data manipulation skills using Barracoda output as point of reference.
 
 **Class Curriculum**
 
@@ -343,18 +349,18 @@ As usual, we will recap last session and then we will briefly go over how you ca
 
 **Post Class**
 
-Week 11 - Monday April 23rd 2018 13-17
+Week 11 - Monday April 30th 2018 13-17
 --------------------------------------
 
 **Location** **Class Curriculum** **Post Class**
 
-Week 12 - Monday April 30th 2018 13-17
---------------------------------------
-
-**Location** **Class Curriculum** **Post Class**
-
-Week 13 - Monday May 7th 2018 13-17
+Week 12 - Monday May 7th 2018 13-17
 -----------------------------------
+
+**Location** **Class Curriculum** **Post Class**
+
+Week 13 - Monday May 14th 2018 13-17
+------------------------------------
 
 **Location** **Class Curriculum** **Post Class**
 
