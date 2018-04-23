@@ -345,6 +345,7 @@ As usual, we will recap last session and then we will briefly go over how you ca
 
 -   Recapitulation of previous class
 -   Writing functions in R
+-   Cheat sheets
 -   Data manipulation and visualisation
 
 **Post Class**
