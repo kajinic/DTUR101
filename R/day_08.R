@@ -26,6 +26,8 @@ library('tidyverse')
 # y-axis (the dependent variable), the total-sum-of-squares will be different
 # and hence also parameters, statistics and p-values
 
+
+
 # ------------------------------------------------------------------------------
 #     2. Does significant correlation imply causation?
 # ------------------------------------------------------------------------------
@@ -67,7 +69,7 @@ d %>%
   geom_line() +
   theme_bw()
 # If you look at the plot, you can see, that after around 100 tests, the 
-# probability of a false positive is 1!
+# probability of a false positive is 1! See p.adjust to control this
 
 # ------------------------------------------------------------------------------
 #     4. PCA
