@@ -350,6 +350,8 @@ As usual, we will recap last session and then we will briefly go over how you ca
 
 **Post Class**
 
+-   [Here is the link to the cheat sheets we discussed](https://www.rstudio.com/resources/cheatsheets/)
+
 Week 11 - Monday April 30th 2018 13-17
 --------------------------------------
 
