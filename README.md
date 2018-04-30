@@ -355,7 +355,19 @@ As usual, we will recap last session and then we will briefly go over how you ca
 Week 11 - Monday April 30th 2018 13-17
 --------------------------------------
 
-**Location** **Class Curriculum** **Post Class**
+**Location**
+
+-   Ly202-R8107-LIFE 12.30pm - 3pm
+
+I hope you got at feeling for just how powerful `R` is at the last sessions. Based on the 'The Very Basics' book chapter you read, we will resolve any basic issues you may have and then go to working with function in `R`. Then we will turn to data visualisation using `ggplot` and the `mtcars` data set.
+
+**Class Curriculum**
+
+-   Working with functions in `R`
+-   Data visualisation
+-   Please read [Hands-On Programming with R by Garrett Grolemund - Chapter 1. The Very Basics](https://www.safaribooksonline.com/library/view/hands-on-programming-with/9781449359089/ch01.html) ahead of class
+
+**Post Class**
 
 Week 12 - Monday May 7th 2018 13-17
 -----------------------------------
