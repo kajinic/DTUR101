@@ -392,6 +392,8 @@ Last time, you got a feeling for how you can write your own functions and apply 
 
 **Post Class**
 
+-   [Here is the import and clean code we worked on today](R/day_12.R)
+
 Week 13 - Monday May 14th 2018 13-17
 ------------------------------------
 
