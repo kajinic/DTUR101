@@ -326,6 +326,7 @@ We will start with briefly going over what we learned in the last class. Then we
 **Post Class**
 
 -   [Here is the code we went through today](R/day_09.R)
+-   [And suggested answer to exercise](R/day_09_exercise.R)
 
 Week 10 - Monday April 16th 2018 13-17
 --------------------------------------
@@ -351,6 +352,8 @@ As usual, we will recap last session and then we will briefly go over how you ca
 **Post Class**
 
 -   [Here is the link to the cheat sheets we discussed](https://www.rstudio.com/resources/cheatsheets/)
+-   [Here is the code we went through today](R/day_10.R)
+-   [And suggested answer to exercise](R/day_10_exercise.R)
 
 Week 11 - Monday April 30th 2018 13-17
 --------------------------------------
