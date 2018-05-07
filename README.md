@@ -374,6 +374,7 @@ Note the change in time! I hope you got at feeling for just how powerful `R` is 
 
 -   [Here is the code we went through today](R/day_11.R)
 -   [Here are the suggested answers to the exercises](R/day_11_exercise.R)
+-   [Data Visualisation using `ggplot`](http://r4ds.had.co.nz/data-visualisation.html)
 
 Week 12 - Monday May 7th 2018 13-17
 -----------------------------------
@@ -382,7 +383,7 @@ Week 12 - Monday May 7th 2018 13-17
 
 -   Ly202-R8107-LIFE
 
-Last time, you got a feeling for how you can write your own functions and apply them, when working with data sets. We also looked more into how we can use `ggplot` to visualise data. Then I asked you for input on how we should spend the last two sessions and I noted that you were interested in practising your skills with respect to loading-cleaning-manipulating-visualisation, so basically a data science workflow. I would like to draw your attention to the data-science-cycle taken from [Garrett Grolemund](https://twitter.com/StatGarrett) and [Hadley Wickham](https://twitter.com/hadleywickham)'s [R for Data Science](http://r4ds.had.co.nz/): ![](figures/data_cycle.png) This captures the essense of a data science workflow: Based on the data, you create a communicable extract of information. Today we will look into how we can colloct and join data from multiple sources.
+Last time, you got a feeling for how you can write your own functions and apply them, when working with data sets. We also looked more into how we can use `ggplot` to visualise data ([Much much more here](http://r4ds.had.co.nz/data-visualisation.html)). Then I asked you for input on how we should spend the last two sessions and I noted that you were interested in practising your skills with respect to loading-cleaning-manipulating-visualisation, so basically a data science workflow. I would like to draw your attention to the data-science-cycle taken from [Garrett Grolemund](https://twitter.com/StatGarrett) and [Hadley Wickham](https://twitter.com/hadleywickham)'s [R for Data Science](http://r4ds.had.co.nz/): ![](figures/data_cycle.png) This captures the essense of a data science workflow: Based on the data, you create a communicable extract of information. Today we will look into how we can colloct and join data from multiple sources.
 
 **Class Curriculum**
 
