@@ -357,9 +357,9 @@ Week 11 - Monday April 30th 2018 13-17
 
 **Location**
 
--   Ly202-R8107-LIFE 12.30pm - 3pm
+-   Ly202-R8107-LIFE (12.00 - 15.00)
 
-I hope you got at feeling for just how powerful `R` is at the last sessions. Based on the 'The Very Basics' book chapter you read, we will resolve any basic issues you may have and then go to working with function in `R`. Then we will turn to data visualisation using `ggplot` and the `mtcars` data set.
+Note the change in time! I hope you got at feeling for just how powerful `R` is at the last sessions. Based on the 'The Very Basics' book chapter you read, we will resolve any basic issues you may have and then go to working with function in `R`. Then we will turn to data visualisation using `ggplot` and the `mtcars` data set.
 
 **Class Curriculum**
 
@@ -372,12 +372,27 @@ I hope you got at feeling for just how powerful `R` is at the last sessions. Bas
 Week 12 - Monday May 7th 2018 13-17
 -----------------------------------
 
-**Location** **Class Curriculum** **Post Class**
+**Location**
+
+-   Ly202-R8107-LIFE
+
+Last time, you got a feeling for how you can write your own functions and apply them, when working with data sets. We also looked more into how we can use `ggplot` to visualise data. Then I asked you for input on how we should spend the last two sessions and I noted that you were interested in practising your skills with respect to loading-cleaning-manipulating-visualisation, so basically a data science workflow. I would like to draw your attention to the data-science-cycle taken from [Garrett Grolemund](https://twitter.com/StatGarrett) and [Hadley Wickham](https://twitter.com/hadleywickham)'s [R for Data Science](http://r4ds.had.co.nz/): ![](figures/data_cycle.png) This captures the essense of a data science workflow: Based on the data, you create a communicable extract of information. Today we will look into how we can colloct and join data from multiple sources.
+
+**Class Curriculum**
+
+-   If you still have not read [Hands-On Programming with R by Garrett Grolemund - Chapter 1. The Very Basics](https://www.safaribooksonline.com/library/view/hands-on-programming-with/9781449359089/ch01.html), please do so
+-   Data science workflow: Joining multiple excel sheets by shared identifiers
+
+**Post Class**
 
 Week 13 - Monday May 14th 2018 13-17
 ------------------------------------
 
-**Location** **Class Curriculum** **Post Class**
+**Location**
+
+-   Ly202-R8107-LIFE
+
+**Class Curriculum** **Post Class**
 
 Videos
 ------
