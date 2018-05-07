@@ -369,6 +369,9 @@ Note the change in time! I hope you got at feeling for just how powerful `R` is 
 
 **Post Class**
 
+-   [Here is the code we went through today](R/day_11.R)
+-   [Here are the suggested answers to the exercises](R/day_11_exercise.R)
+
 Week 12 - Monday May 7th 2018 13-17
 -----------------------------------
 
