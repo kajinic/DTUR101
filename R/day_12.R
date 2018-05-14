@@ -27,7 +27,7 @@ excel_sheets(path = 'data/week12_data/_raw/fold_change.xlsx')
 # Add variable to the virus peps
 virus_peps = virus_peps %>% mutate(Peptide = str_c("v", Nr))
 
-# Whoops! The 'Peptide' variable contained weird notation "v4 (C1)", we
+# Whoops! The 'Peptide' variable contained weird notation e.g. "v4 (C1)", we
 # need to get rid of that:
 virus_peps = virus_peps %>%
   mutate(Peptide = Peptide %>% str_split(" ") %>% map(1) %>% unlist)
