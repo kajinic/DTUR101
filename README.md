@@ -476,7 +476,7 @@ Important Resources for Data Science in R
 
 -   [swirl - Learn R, in R](http://swirlstats.com/)
 -   [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
--   [RStudio Community - Get help by asking R questions](https://community.rstudio.com/)
+-   [RStudio Community - Stuck? Ask a question and get help moving on](https://community.rstudio.com/)
 
 ### Guides on Good Data Practices
 
