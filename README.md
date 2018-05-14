@@ -18,11 +18,8 @@ DTUR101 - Introduction to Applied Data Analysis with R
     -   [Week 5 - Monday February 26th 2018 13-17](#week-5---monday-february-26th-2018-13-17)
     -   [Week 6 - Monday March 5th 2018 13-17](#week-6---monday-march-5th-2018-13-17)
     -   [Week 7 - Monday March 12th 2018 13-17](#week-7---monday-march-12th-2018-13-17)
-    -   [Week 8 - Monday March 19th 2018 13-17](#week-8---monday-march-19th-2018-13-17)
     -   [Week 8 - Monday March 26th 2018 13-17](#week-8---monday-march-26th-2018-13-17)
-    -   [Easter Vacation - Monday April 2nd 2018 13-17](#easter-vacation---monday-april-2nd-2018-13-17)
     -   [Week 9 - Monday April 9th 2018 13-17](#week-9---monday-april-9th-2018-13-17)
-    -   [Week 10 - Monday April 16th 2018 13-17](#week-10---monday-april-16th-2018-13-17)
     -   [Week 10 - Monday April 23rd 2018 13-17](#week-10---monday-april-23rd-2018-13-17)
     -   [Week 11 - Monday April 30th 2018 13-17](#week-11---monday-april-30th-2018-13-17)
     -   [Week 12 - Monday May 7th 2018 13-17](#week-12---monday-may-7th-2018-13-17)
@@ -279,11 +276,6 @@ We will start with going over the results of the midway evaluation. Then we will
 
 **Post Class**
 
-Week 8 - Monday March 19th 2018 13-17
--------------------------------------
-
-Class cancelled
-
 Week 8 - Monday March 26th 2018 13-17
 -------------------------------------
 
@@ -310,11 +302,6 @@ We will start with briefly going over what we learned in the last class. Then we
 -   [Answer to exercises](R/day_08_exercise.R)
 -   [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
 
-Easter Vacation - Monday April 2nd 2018 13-17
----------------------------------------------
-
-No class - Easter Monday
-
 Week 9 - Monday April 9th 2018 13-17
 ------------------------------------
 
@@ -337,11 +324,6 @@ We will start with briefly going over what we learned in the last class. Then we
 
 -   [Here is the code we went through today](R/day_09.R)
 -   [And suggested answer to exercise](R/day_09_exercise.R)
-
-Week 10 - Monday April 16th 2018 13-17
---------------------------------------
-
-Class cancelled
 
 Week 10 - Monday April 23rd 2018 13-17
 --------------------------------------
@@ -486,6 +468,8 @@ Important Resources for Data Science in R
 
 Additional Videos
 -----------------
+
+These are the remaining video lectures, that we did not find time to go through. I would however still recommend that you find time to watch them.
 
 -   Video: [12 - Categorical Data - Chisq test - how to](https://www.youtube.com/watch?v=fEXa8dQwlDw)
 -   Video: [13 - Binomial distribution](https://www.youtube.com/watch?v=F2NpmXEwFVE)
