@@ -9,7 +9,6 @@ DTUR101 - Introduction to Applied Data Analysis with R
     -   [Content](#content)
     -   [Schedule](#schedule)
     -   [Software](#software)
-    -   [Some Useful Links](#some-useful-links)
     -   [Questions](#questions)
 -   [Course Timetable](#course-timetable)
     -   [Week 1 - Monday January 29th 2018 13-17](#week-1---monday-january-29th-2018-13-17)
@@ -28,7 +27,9 @@ DTUR101 - Introduction to Applied Data Analysis with R
     -   [Week 11 - Monday April 30th 2018 13-17](#week-11---monday-april-30th-2018-13-17)
     -   [Week 12 - Monday May 7th 2018 13-17](#week-12---monday-may-7th-2018-13-17)
     -   [Week 13 - Monday May 14th 2018 13-17](#week-13---monday-may-14th-2018-13-17)
-    -   [Videos](#videos)
+    -   [Course Curriculum Wrap Up](#course-curriculum-wrap-up)
+    -   [Important Resources / Links](#important-resources-links)
+    -   [Additional Videos](#additional-videos)
 
 Course Introduction
 ===================
@@ -71,15 +72,6 @@ Students are required to bring their own laptop and preferably install the follo
 -   [R](https://mirrors.dotsrc.org/cran/)
 -   [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
-Some Useful Links
------------------
-
--   [swirl - Learn R, in R](http://swirlstats.com/)
--   [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
--   [A Quick Guide to Organizing Computational Biology Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
--   [R for Data Science](http://r4ds.had.co.nz/)
--   [A Guide to Reproducible Code]()
-
 Questions
 ---------
 
@@ -94,6 +86,8 @@ Week 1 - Monday January 29th 2018 13-17
 **Location**
 
 -   The library at DTU Bioinformatics (building 208, room 027) at 1pm.
+
+**Background**
 
 The first day we will focus on getting the software we need up and running. Then we will dive into programming in R. There will be a learning curve, I am fully aware of this, but I am confident that if you put the effort into climbing it, the reward will be well worth it. Programming is not only learning what to write when, but it is also learning a certain way of thinking - A new mindset if you will.
 
@@ -118,6 +112,8 @@ Week 2 - Monday February 5th 2018 13-17
 **Location**
 
 -   Ly202-R8107-LIFE 1pm - 5pm
+
+**Background**
 
 Based on what we learned in week 1, we will move onto some data visualisation using the `ggplot` package, which is part of the [`tidyverse`](https://www.tidyverse.org/) framework. The `tidyverse` framework is a particular take on how to do data analysis. It implements a philosophy where the work goes into getting your data into a well-defined format and once this is obtained, the different `tidyverse` functions can be applied to import-tidy-transform-visualise-model-communicate your data as illustrated in this figure (taken from [R for Data Science](http://r4ds.had.co.nz/))
 
@@ -148,6 +144,8 @@ Week 3 - Monday February 12th 2018 13-17
 
 -   Ly202-R8107-LIFE 1pm - 5pm
 
+**Background**
+
 Now we have learned the basics of `R`, touched upon descriptive statistics and been introduced to `tidyverse` and `ggplot`. We continue with data visualisation and then turn to data distributions. We will take a closer at the normal distribution and also look at confidence intervals, when estimating population mean based on a sample.
 
 **Class Curriculum**
@@ -171,6 +169,8 @@ Week 4 - Monday February 19th 2018 13-17
 **Location**
 
 -   Ly202-R8107-LIFE 1pm - 5pm
+
+**Background**
 
 We have now become more familiar with `R` and we have tried to solve some simple tasks on our own. We have touched upon the normal distribution and used it to calculate some probabilities. We also discussed some properties of probability density functions. Now it is time to address how we state and test a hypothesis. Furthermore we will discuss how we interpret the result of a test and also possible errors. We will use the `t-test` as a point of reference for this.
 
@@ -198,6 +198,8 @@ Week 5 - Monday February 26th 2018 13-17
 -   NB! Class rescheduled to Friday March 2nd
 -   Ly202-R8107-LIFE 1pm - 5pm
 
+**Background**
+
 Last class we went over cleaning of data, the standard normal distribution, what constitutes a hypothesis in statistical terminology. Lastly we turned to manual implementation of a t-test and in that context discussed the connection between the test statistics and the p-value. I realise that it a bit more challenging, but please try to remember that it is natural to feel frustration when absorbing new knowledge. Especially in this case, where you have to absorb not only how-to-code-in-R, but also statistics and math, which does require a level of abstraction, which is challenging. See it as if you are trying to learn a new language, which in essense is quite comparable to what we are doing. We will go over the manual t-test for the `shoe_size` variable to ensure that we are all on the same page. Then I will introduce and discuss some more statistical terminology: Level of significance, Type I error, Type II error and power.
 
 **Class Curriculum**
@@ -220,6 +222,8 @@ Week 6 - Monday March 5th 2018 13-17
 **Location**
 
 -   Ly202-R8107-LIFE 1pm - 5pm
+
+**Background**
 
 We will spent some time on the exercises from last week and then go over the going over basic statistical concepts again, so we all agree on:
 
@@ -260,6 +264,8 @@ Week 7 - Monday March 12th 2018 13-17
 
 -   Ly202-R8107-LIFE 1pm - 5pm
 
+**Background**
+
 We will start with going over the results of the midway evaluation. Then we will expand on the topics of correlation and covariance.
 
 **Class Curriculum**
@@ -284,6 +290,8 @@ Week 8 - Monday March 26th 2018 13-17
 **Location**
 
 -   Ly202-R8107-LIFE 1pm - 5pm
+
+**Background**
 
 We will start with briefly going over what we learned in the last class. Then we will briefly discuss correlation and causation and correction for multiple testing. Then we will turn to reduction of data dimensionality using PCA. I assume most of you have encountered PCA and I would like for you to understand what it is, what it does and how we can use it. Please watch the videos ahead of class.
 
@@ -314,6 +322,8 @@ Week 9 - Monday April 9th 2018 13-17
 
 -   Ly202-R8107-LIFE 1pm - 5pm
 
+**Background**
+
 We will start with briefly going over what we learned in the last class. Then we will introduce functions and string detection `stringr` and revisit data manipulation and visualisation, aiming at practising our R syntax skills.
 
 **Class Curriculum**
@@ -340,6 +350,8 @@ Week 10 - Monday April 23rd 2018 13-17
 
 -   Ly202-R8107-LIFE 1pm - 5pm
 
+**Background**
+
 As usual, we will recap last session and then we will briefly go over how you can make your own functions in `R`. This is a very powerful way of formalising your analysis and allows you to make workflows easily repeatable. Then we will continue practising our data manipulation skills using Barracoda output as point of reference.
 
 **Class Curriculum**
@@ -362,6 +374,8 @@ Week 11 - Monday April 30th 2018 13-17
 
 -   Ly202-R8107-LIFE (12.00 - 15.00)
 
+**Background**
+
 Note the change in time! I hope you got at feeling for just how powerful `R` is at the last sessions. Based on the 'The Very Basics' book chapter you read, we will resolve any basic issues you may have and then go to working with function in `R`. Then we will turn to data visualisation using `ggplot` and the `mtcars` data set.
 
 **Class Curriculum**
@@ -383,6 +397,8 @@ Week 12 - Monday May 7th 2018 13-17
 
 -   Ly202-R8107-LIFE
 
+**Background**
+
 Last time, you got a feeling for how you can write your own functions and apply them, when working with data sets. We also looked more into how we can use `ggplot` to visualise data ([Much much more here](http://r4ds.had.co.nz/data-visualisation.html)). Then I asked you for input on how we should spend the last two sessions and I noted that you were interested in practising your skills with respect to loading-cleaning-manipulating-visualisation, so basically a data science workflow. I would like to draw your attention to the data-science-cycle taken from [Garrett Grolemund](https://twitter.com/StatGarrett) and [Hadley Wickham](https://twitter.com/hadleywickham)'s [R for Data Science](http://r4ds.had.co.nz/): ![](figures/data_cycle.png) This captures the essense of a data science workflow: Based on the data, you create a communicable extract of information. Today we will look into how we can colloct and join data from multiple sources.
 
 **Class Curriculum**
@@ -401,10 +417,74 @@ Week 13 - Monday May 14th 2018 13-17
 
 -   Ly202-R8107-LIFE
 
-**Class Curriculum** **Post Class**
+**Background**
 
-Videos
-------
+At our last session, we will as usual recapitulate last session and then continue with merging data from multiple sources. Once complete, we will briefly get an overview of what you should have learned during the course and then we will finish with a Q&A session on the entire course curriculum. Please do remember, that everything covered during this course is available in [R for Data Science by Garrett Grolemund and Hadley Wickham](http://r4ds.had.co.nz/) - This is the goto source for anything [TidyVerse](https://www.tidyverse.org/).
+
+**Class Curriculum**
+
+-   Recap of last session
+-   Continue working with merging data from multiple sources
+-   Recap of course curriculum
+-   Q&A on course curriculum
+
+**Post Class**
+
+Course Curriculum Wrap Up
+-------------------------
+
+By now, the following concepts should be familiar to you:
+
+-   Descriptive statistics (mean and standard deviation)
+-   Statistical inference (sample versus population)
+-   The normal distibution (aka Gaussian distribution)
+-   Confidence intervals
+-   The standard normal distribution
+-   Standard-score normalisation (z-scores)
+-   Hypothesis testing (null versus alternative)
+-   Student's t-test
+-   p-values
+-   Level of significance
+-   Alpha values
+-   Type I error (False positives)
+-   Power
+-   Beta values
+-   Type II error (False negatives)
+-   Confusion matrices
+-   Ordinary Least Squares (Linear model, linear regression)
+-   Correlation
+-   Covariance
+-   Principal Component Analysis (PCA)
+-   Data Import, tidying, transformation, visualisation, modelling and communicating using TidyVerse and ggplot
+
+Important Resources / Links
+---------------------------
+
+### Software Links
+
+-   [The R Project for Statistical Computing](https://www.r-project.org/)
+-   [RStudio - Open Source and Enterprise-ready professional software for R](https://www.rstudio.com/)
+-   [Tidyverse website](https://www.tidyverse.org/)
+
+### Materials on Data Science
+
+-   [Hands-On Programming with R by Garrett Grolemund - Chapter 1. The Very Basics](https://www.safaribooksonline.com/library/view/hands-on-programming-with/9781449359089/ch01.html)
+-   [R for Data Science by Garrett Grolemund and Hadley Wickham](http://r4ds.had.co.nz/)
+-   [Youtube playlist with all video lectures](https://www.youtube.com/playlist?list=PL4L59zaizb3FmBdxuDLRdzGsknTrZN6Ys) by [Morten Arendt Rasmussen](http://food.ku.dk/english/staff/?pure=en/persons/311655/)
+
+### Some Useful Links
+
+-   [swirl - Learn R, in R](http://swirlstats.com/)
+-   [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+
+### Guides on Good Data Practices
+
+-   [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
+-   [A Quick Guide to Organizing Computational Biology Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+-   [A Guide to Reproducible Code by the British Ecology Society](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
+
+Additional Videos
+-----------------
 
 -   Video: [12 - Categorical Data - Chisq test - how to](https://www.youtube.com/watch?v=fEXa8dQwlDw)
 -   Video: [13 - Binomial distribution](https://www.youtube.com/watch?v=F2NpmXEwFVE)
