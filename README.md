@@ -28,7 +28,7 @@ DTUR101 - Introduction to Applied Data Analysis with R
     -   [Week 12 - Monday May 7th 2018 13-17](#week-12---monday-may-7th-2018-13-17)
     -   [Week 13 - Monday May 14th 2018 13-17](#week-13---monday-may-14th-2018-13-17)
     -   [Course Curriculum Wrap Up](#course-curriculum-wrap-up)
-    -   [Important Resources / Links](#important-resources-links)
+    -   [Important Resources for Data Science in R](#important-resources-for-data-science-in-r)
     -   [Additional Videos](#additional-videos)
 
 Course Introduction
@@ -457,8 +457,8 @@ By now, the following concepts should be familiar to you:
 -   Principal Component Analysis (PCA)
 -   Data Import, tidying, transformation, visualisation, modelling and communicating using TidyVerse and ggplot
 
-Important Resources / Links
----------------------------
+Important Resources for Data Science in R
+-----------------------------------------
 
 ### Software Links
 
