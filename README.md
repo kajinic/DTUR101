@@ -57,7 +57,7 @@ It is expected that students have a basic knowledge of math and calculus and lin
 Content
 -------
 
-Non-exhaustive: We will cover descriptive statistics, data distribution, t-test (and a couple of others), PCA, data manipulation, exploration, visualisation and documentation in R.
+Non-exhaustive: We will cover descriptive statistics, data distribution, t-test, PCA, data manipulation, exploration, visualisation and documentation in R.
 
 Schedule
 --------
@@ -476,6 +476,7 @@ Important Resources for Data Science in R
 
 -   [swirl - Learn R, in R](http://swirlstats.com/)
 -   [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+-   [RStudio Community - Get help by asking R questions](https://community.rstudio.com/)
 
 ### Guides on Good Data Practices
 
